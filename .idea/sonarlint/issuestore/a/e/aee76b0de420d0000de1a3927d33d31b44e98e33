@@ -1,0 +1,20 @@
+
+0
+java:S1220""Move this file to a named package.
+Q
+java:S1854";Remove this useless assignment to local variable "random2".(à™•
+?
+java:S2140")Use "java.util.Random.nextInt()" instead.(ˆÀâ¦
+?
+java:S2140")Use "java.util.Random.nextInt()" instead.(à™•
+B
+java:S1481",Remove this unused "random2" local variable.(à™•
+@	java:S106
+"+Replace this use of System.out by a logger.(Òº»¶
+D
+java:S2140")Use "java.util.Random.nextInt()" instead.(öäûƒøÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(Áßôùÿÿÿÿ
+?
+java:S2140")Use "java.util.Random.nextInt()" instead.(„ìà°
+E	java:S106"+Replace this use of System.out by a logger.(ã•·ûÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Í ø
